@@ -1,5 +1,6 @@
 # stm32g464re
 
+/******************************************xiexiaoyu*********************************************/
 this project is about  TIM+ADC+DMA 
 
 ADC sample time=53.33khz
@@ -24,3 +25,7 @@ LED2 PA5
 this project start with keil5  528
 
 support st—link v3
+
+因为github上传限制，这儿只把main函数调用上传 ，可以用stm32cubemx打开.ioc文件后创建代码，然后修改main函数。
+
+/******************************************shenzheng**********************************************/
